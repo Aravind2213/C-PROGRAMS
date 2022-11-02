@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <title>
+            ASSIGNMENT 1 📔
+        </title>
+        <body bgcolor="lavender">
+            <center>
+                <h1>THIS IS MY FIRST ASSIGNMENT IN HTML</h1>
+                <hr>
+                <H2>ASSIGNMENT - 1 -> LETsUPGRADE HTML/ CSS BOOTCAMP</H2>
+            </center>
+            <p>Today , I am doing my first assignment in HTML/CSS</p>
+            <br>
+            <p>This line is displayed using paragraph tag</p>
+            <br><hr>
+            <p>The following link is the website of LETsUPGRADE</p>
+            <a href="https://letsupgrade.in/programs" target="_blank">CLICK ME TO ENROLL, LEARN AND EARN FREE CERTIFICATE 👨‍🎓</a>
+            <p>THis is how the interface of LETsUPGRADE looks like <br> We can enroll our interested courses and learn and earn free certificates</p>
+            <img src="./page1.jpg" height ="300" width="600" alt="Sorry !! We have a problem in loading the image"><br><br>
+            <img src="./page2.jpg" height ="300" width="600" alt="Sorry !! We have a problem in loading the image"><br><br>
+            <img src="./page3.png" height ="300" width="600" alt="Sorry !! We have a problem in loading the image"><br><br>
+            <img src="./page5.png" height ="300" width="600" alt="Sorry !! We have a problem in loading the image"><br><br>
+            <HR></HR>
+            <center><p><b>IF YOU ARE INTERESTED IN DOING A FULL STACK WB DEVELOPMENT PROGRAM !!! GRAB YOUR OPPURTUNITY NOW !!!</b></p></center>
+            <center>
+                Be the next top notch Full Stack Web Developer by building web projects using HTML, CSS, JS, Node, Express, MongoDB and React.js.
+                Master your skills with LETsUPGRADE's 1-1 career mentorship every week
+                <h1><b>Are you interested ?</b></h1>
+            </center>
+            <p>Click the below link to register to full stack web development program by LETsUPGRADE</p><br>
+            <a href="https://letsupgrade.in/programs/fullstack-web-development-pgp-fs" target="_blank">CLICK ME !!! I GUIDE YOU TO MASTER FULL-STACK DEVELOPMENT 
+            </a>
+            <OL>
+                <P>FEATURES OF FULL STACK WEB DEVELOPMENT COURSE OF LETsUPGRADE</P>
+                <LI>100% Live
+                    by Industry Professionals</LI><br>
+                <li>6 Months
+                    7-10 Hours a Week</li><br>
+                <li>1:1 Mentoring
+                    helps you achieve your goals</li><br>
+                <li>Fees ₹ 36,600/-
+                    as low as ₹2,842/month for 12 Months</li><br>
+                    <li>NSDC & ITM Group
+                        Certificate after completion</li><br>
+            </OL>
+            <center><h1><b>IF YOU ARE INTERESTED FILL THE FORM !!!</b></h1></center>
+            <label for="name">ENTER YOUR NAME :</label>
+            <input type="text" id="name"  placeholder="Enter your Name"><br>
+            <label for="ph no">ENTER YOUR PHONE NUMBER :</label>
+            <input type="tel" id="ph no" placeholder="Enter your Mobile Number"><br>
+            <label for="emailid">ENTER YOUR EMAIL ID :</label>
+            <input type="email", id="emailid" placeholder="Enter your Email ID"><br>
+            <label for="dob">ENTER YOUR DATE OF BIRTH :</label>
+            <input type="date", id="dob"><br>
+            <label for="sex">GENDER 👨👩</label>
+            Male :   <input type="checkbox" id="sex" >
+            Female : <input type="checkbox"><br>
+            <label for="submit">LETS GET STARTED 🔥</label>
+            <input type="submit" id="submit">
+        </body>
+    </head>
+</html>
